@@ -1,0 +1,12 @@
+html{
+    height: 100%;
+}
+
+
+footer p {
+    background-color: #3e3939;
+    height: 70px;
+    font-size: 60px;
+    position: bottom;
+}
+
